@@ -1,0 +1,28 @@
+ WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 545-633-088
+INFO:werkzeug: * Detected change in 'C:\\Users\\Lenovo\\PycharmProjects\\SkyPro\\LESSON_12_2\\homeWork\\lesson12_project_source_v3\\loader\\view.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 545-633-088
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 545-633-088
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 08:48:01] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 08:48:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:None : �� �����������!
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 08:48:08] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 545-633-088
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 08:49:03] "GET /post HTTP/1.1" 200 -
+INFO:root:None : не изображение!
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 08:49:07] "POST /post HTTP/1.1" 200 -
